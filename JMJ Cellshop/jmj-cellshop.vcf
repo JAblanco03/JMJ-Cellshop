@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cellshop and Repair Center;JMJ;;;
+FN:JMJ Cellshop and Repair Center
+ORG:JMJ Cellshop and Repair Center
+TEL;TYPE=WORK,VOICE:+639514443003
+ADR;TYPE=WORK:;;2nd Floor\, XentroMall\, in front of
+ Abenson\, 4 Lanes\, Villasis;Santiago City;Isabela;3311;Philippines
+URL:https://www.facebook.com/JmjCellshop
+item1.URL:https://maps.app.goo.gl/Cqwzjp3jzQ1XdXoB8
+item1.X-ABLabel:XentroMall Branch
+item2.URL:https://maps.app.goo.gl/ESfc47EhN7ZsUnxu5
+item2.X-ABLabel:Main Branch
+END:VCARD
